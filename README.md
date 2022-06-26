@@ -22,5 +22,6 @@ If you want to change something just open a PR. There are some rules:
 
 Do you want to learn more about life with this documentation?
 
-Yes: [Arrival.md]
+Yes: [Arrival.md](Arrival.md)
+
 No: OK. I wish you the best.
