@@ -17,11 +17,17 @@ This also leads to problems as soon, as two people have different ideas how to u
 You see, its hard to find a statement for the reason for life that has no problems. We might as well say its 42.
 
 All the while it is often easier to decide for onself, what reason we don't want for our lives.
-For me thinking about the Reason for life is not part of my reason to live.
+For me thinking about the reason for life is not part of my reason to live.
 
 ## Task
 
 It is way harder to reach an unspecified goal, than reaching a specified goal is. 
 Therefore the first task for you is to ensure you have a goal at all times.
 
+## Decision
+
 Do you need help finding a goal?
+
+Yes: [Find.md](Find.md)
+
+No: [Accomplish.md](Accomplish.md)
