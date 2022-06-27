@@ -55,4 +55,8 @@ goals you tried to achieve before have a positive impact on it.
 I would add to the list in the video: Fame and Influence/Power.
   
 </details>
+
+## Decision
+
+
   
